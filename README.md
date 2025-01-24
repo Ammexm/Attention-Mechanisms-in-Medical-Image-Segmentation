@@ -23,7 +23,17 @@ ____
 
 If you find our work useful in your research, please consider citing:
 ```
-
+@article{ZHANG2025100721,
+title = {Advances in attention mechanisms for medical image segmentation},
+journal = {Computer Science Review},
+volume = {56},
+pages = {100721},
+year = {2025},
+issn = {1574-0137},
+doi = {https://doi.org/10.1016/j.cosrev.2024.100721},
+url = {https://www.sciencedirect.com/science/article/pii/S1574013724001047},
+author = {Jianpeng Zhang and Xiaomin Chen and Bing Yang and Qingbiao Guan and Qi Chen and Jian Chen and Qi Wu and Yutong Xie and Yong Xia},
+}
 ```
 
 ## List of related papers and code
