@@ -11,6 +11,7 @@ ____
 
 ## 😮 Highlights
 ```
+- 2025.01.01: One survey paper has been accepted by Computer Science Review!
 - 2024.11.23: Latest update of this paper list.
 - 2023.05.29: The paper was online.
 ```
